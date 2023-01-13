@@ -12,7 +12,8 @@ function myFunction1() {
  * Function Expressions: These are functions that are assigned to a variable.
  * The function can be anonymous or named. Example:
  */
-const myFunction = function2() {
+const myFunction = function2()
+{
     // function code here
 };
 
